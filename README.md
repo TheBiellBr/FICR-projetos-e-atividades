@@ -10,6 +10,7 @@ Revisões futuras
 Organização dos estudos
 Consulta rápida de conteúdos já aprendidos
 Compartilhamento de conhecimento
+
 🧠 Conteúdos
 
 Aqui você encontrará:
@@ -18,6 +19,7 @@ Exercícios práticos
 Trabalhos acadêmicos
 Projetos
 Anotações e estudos complementares
+
 🛠️ Tecnologias Utilizadas
 
 As tecnologias podem variar conforme a disciplina, podendo incluir:
@@ -28,14 +30,17 @@ JavaScript
 HTML/CSS
 Banco de Dados (SQL)
 Entre outras
+
 🚀 Como usar
 Navegue pelas pastas de acordo com a disciplina
 Abra os arquivos das atividades
 Execute os códigos conforme necessário
+
 📌 Observações
 Este repositório é destinado ao uso acadêmico
 Algumas atividades podem estar em desenvolvimento
 Atualizações serão feitas ao longo do curso
+
 👨‍🎓 Autor
 
-Gabriel Gonçalves
+Gabriel Santos Gonçalves
