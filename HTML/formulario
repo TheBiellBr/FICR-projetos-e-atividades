@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+<body>
+    <h1>Formulário de Cadastro</h1>
+    <h2>Inicio do Formulário</h2>
+    <form action= "" method="get">
+        Informe seu nome completo: <br/>
+        <input type="text" name="nome" id="nome"></form>
+    </br>
+
+        Selecione o tipo de combustível:</br>
+        <input type="radio" name="gas" id="gas" value="gas"/>Gasolina<br/>
+        <input type="radio" name="gas" id="gas" value="alc"/>Álcool<br/>
+        <input type="radio" name="gas" id="gas" value="gnv"/>GNV<br/>
+        <input type="radio" name="gas" id="gas" value="flex"/>Flex<br/>
+    </br>
+        Selecione o tipo de combustível: </br>
+        <input type="checkbox" name="gas" id="gas" value="gas"/>Gasolina<br/>
+        <input type="checkbox" name="alc" id="alc" value="alc"/>Álcool<br/>
+        <input type="checkbox" name="gnv" id="gnv" value="gnv"/>GNV<br/>
+        <input type="checkbox" name="flex" id="flex"  value="flex"/>Flex<br/>
+    </br>
+        Escolha o fabricante do carro: </br>
+        <select name="car" id="car" required>
+            <option value="" disabled selected>Selecione</option>
+            <option value="Fiat">Fiat</option>
+            <option value="Hyundai">Hyundai</option>
+            <option value="BYD">BYD</option>
+            <option value="Honda">Honda</option>
+        </select>
+    </form>
+
+</body>
+</html>
